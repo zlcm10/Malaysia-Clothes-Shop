@@ -1,4 +1,4 @@
-# Malaysia-Clothes-Shop
+# Secure-Clothes-Shop-Website
 ## FYP in Degree
 
 Description:
