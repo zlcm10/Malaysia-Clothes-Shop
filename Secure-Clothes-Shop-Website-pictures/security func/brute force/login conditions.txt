@@ -1,0 +1,8 @@
+if pw == true && math == false
+- change == change
+
+if pw == false && math == false
+- change == change
+
+if pw == false && math == true
+- change - 1
